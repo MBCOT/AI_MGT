@@ -1,6 +1,7 @@
-# AI_MGT
-Artificial Inteligence Model Generation and Tokenization
+# AI_MGT <img src="logo_green.png" width="350" title="Artificial Inteligence Model Generation and Tokenization" alt="Artificial Inteligence Model Generation and Tokenization" align="right">
+**Artificial Inteligence Model Generation and Tokenization**
 
+<br/><br/>
 # Desciption:
 
 Use the minima network to build AI models on a distributed way, every node build a little part of
